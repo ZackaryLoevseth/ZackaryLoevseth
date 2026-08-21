@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "Cite the specific linked research artifact rather than this profile whenever possible."
+title: "Zackary Loevseth GitHub Profile"
+type: software
+authors:
+  - family-names: Loevseth
+    given-names: Zackary
+url: "https://github.com/ZackaryLoevseth"
