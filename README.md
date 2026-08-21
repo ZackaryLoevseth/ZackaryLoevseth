@@ -13,17 +13,21 @@ Featured preprints:
 
 - **Explicit Counterexample Families to Five Finite-Group Inequalities from
   Graffiti3** — five scoped infinite-family refutations; database first-failure
-  language is GAP SmallGrp/version scoped.
+  language is GAP SmallGrp/version scoped. [Intended repository](https://github.com/ZackaryLoevseth/graffiti3-counterexample-families)
+  (creation pending GitHub authentication).
 - **Largest-Index Zonotope Bounds for Planar Projections of Semiorder Ideals**
   — proof plus exact finite corroboration; unrestricted parametric closure
-  remains open.
+  remains open. [Intended repository](https://github.com/ZackaryLoevseth/semiorder-zonotope-bounds)
+  (creation pending GitHub authentication).
 - **Excess-Degree Bounds for Minimal Counterexamples to the Erdős–Gyárfás
   Conjecture** — theorem for hypothetical lexicographically minimal
   counterexamples; the global conjecture remains open.
+  [Intended repository](https://github.com/ZackaryLoevseth/erdos-64-excess-degree-bounds)
+  (creation pending GitHub authentication).
 
 All three are **publication-ready preprints with external specialist review
 pending**. See the portfolio for manuscripts, supplements, scope statements,
-verification summaries, and current repository links.
+verification summaries, and deployment status.
 
 ## Methods and current programs
 
