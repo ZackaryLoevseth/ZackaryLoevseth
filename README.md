@@ -5,6 +5,16 @@ human–AI research systems. My projects pair explicit claim boundaries with
 proof reconstruction, independent checking, mutation controls, clean replay,
 and public correction paths.
 
+## Professional experience
+
+I am a Customer Support Associate I (Norwegian) | Billing, Shipping &
+Fulfillment at SpaceX (Sep 2025 - Present), using AI-enabled workflows in
+high-volume billing, shipping, and fulfillment operations and documenting
+repeatable practices for teammates.
+
+That professional work is separate from my independent research. SpaceX is not
+represented as an author, sponsor, reviewer, or endorser of the research below.
+
 ## Research portfolio
 
 **[Live research portfolio](https://zackaryloevseth.github.io/research-portfolio/)**
@@ -17,8 +27,9 @@ Featured public preprint repositories:
   [Repository](https://github.com/ZackaryLoevseth/graffiti3-counterexample-families)
   · [v1.0.0-preprint release](https://github.com/ZackaryLoevseth/graffiti3-counterexample-families/releases/tag/v1.0.0-preprint)
 - **Largest-Index Zonotope Bounds for Planar Projections of Semiorder Ideals**
-  — proof plus exact finite corroboration; unrestricted parametric closure
-  remains open.
+  — bounds for planar projections of ideal hulls of represented semiorders,
+  with exact finite corroboration; unrestricted parametric closure remains
+  open.
   [Repository](https://github.com/ZackaryLoevseth/semiorder-zonotope-bounds)
   · [v1.0.0-preprint release](https://github.com/ZackaryLoevseth/semiorder-zonotope-bounds/releases/tag/v1.0.0-preprint)
 - **Excess-Degree Bounds for Minimal Counterexamples to the Erdős–Gyárfás
@@ -64,5 +75,7 @@ corrections, and release scope. AI systems assist discovery, proof and code
 development, checking, workflow coordination, and editing. They are not
 authors, external reviewers, or substitutes for mathematical evidence.
 
-Public contact routes are listed on the
-[portfolio contact page](https://zackaryloevseth.github.io/research-portfolio/contact.html).
+## Contact
+
+[zloevseth@gmail.com](mailto:zloevseth@gmail.com) ·
+[Portfolio contact page](https://zackaryloevseth.github.io/research-portfolio/contact.html)
