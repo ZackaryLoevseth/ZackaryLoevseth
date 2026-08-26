@@ -5,16 +5,6 @@ human–AI research systems. My projects pair explicit claim boundaries with
 proof reconstruction, independent checking, mutation controls, clean replay,
 and public correction paths.
 
-## Professional experience
-
-I am a Customer Support Associate I (Norwegian) | Billing, Shipping &
-Fulfillment at SpaceX (Sep 2025 - Present), using AI-enabled workflows in
-high-volume billing, shipping, and fulfillment operations and documenting
-repeatable practices for teammates.
-
-That professional work is separate from my independent research. SpaceX is not
-represented as an author, sponsor, reviewer, or endorser of the research below.
-
 ## Research portfolio
 
 **[Live research portfolio](https://zackaryloevseth.github.io/research-portfolio/)**
