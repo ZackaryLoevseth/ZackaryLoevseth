@@ -1,22 +1,17 @@
 # Zackary Loevseth
 
-I work on better ways to do research with AI: clear questions, checkable results, and corrections that don't get lost between sessions.
+Independent researcher using AI across mathematics, formal methods, software security, scientific software, and philosophical inquiry into human–AI cooperation.
 
-**[Research portfolio](https://zackaryloevseth.github.io/research-portfolio/)** · **[Research résumé](https://zackaryloevseth.github.io/research-portfolio/research-resume.html)**
+**[Research portfolio](https://zackaryloevseth.github.io/research-portfolio/)** · **[Methods and AI assistance](https://zackaryloevseth.github.io/research-portfolio/methods.html)**
 
 ## Selected work
 
-- [Five Graffiti³ counterexample families](https://github.com/ZackaryLoevseth/graffiti3-counterexample-families) — exact family arguments with bounded computational corroboration.
-- [Semiorder projection bounds](https://github.com/ZackaryLoevseth/semiorder-zonotope-bounds) — a largest-index zonotope decomposition; unrestricted parametric closure remains open.
-- [Minimal-counterexample degree bounds](https://github.com/ZackaryLoevseth/erdos-64-excess-degree-bounds) — a scoped theorem, not a solution of the Erdős–Gyárfás conjecture.
-- [A 104-step totient certificate](https://github.com/ZackaryLoevseth/Erd-s-Problem-409) — `F(400000287233629) = 104`; not a maximum, record, or unboundedness claim.
+- **Human–AI cooperation:** [HayosoAi](https://zackaryloevseth.github.io/research-portfolio/hayosoai/beta/en/) examines understanding, responsibility, and how purposes and justified commitments can change. Its essay presents a philosophical position.
+- **Mathematics:** [Graffiti³ counterexample families](https://github.com/ZackaryLoevseth/graffiti3-counterexample-families), [semiorder projection bounds](https://github.com/ZackaryLoevseth/semiorder-zonotope-bounds), [minimal-counterexample degree bounds](https://github.com/ZackaryLoevseth/erdos-64-excess-degree-bounds), and [an exact 104-step totient certificate](https://github.com/ZackaryLoevseth/Erd-s-Problem-409), each with stated scope and verification materials.
+- **Research workflows:** [EvidenceDesk](https://github.com/ZackaryLoevseth/evidencedesk-strands), a local AI-assisted workflow with source snapshots, quotation checks, and attributed review packets.
+- **Scientific software:** [Vesuvius TIFXYZ resampling](https://github.com/ZackaryLoevseth/vesuvius-tifxyz-resampling), an interpolation-validity correction with reproducible geometry evidence.
+- **Software security:** [Public disclosure record](https://zackaryloevseth.github.io/research-portfolio/security.html), with linked publisher advisories.
 
-The three papers are public preprints with internal, method-diverse checks; external specialist review is pending in their recorded release state.
+I frame questions, set constraints and verification requirements, and direct corrections and releases. AI systems substantially assist with arguments, code, computation, checking, and writing.
 
-## My part
-
-I choose the problems, frame the tasks, specify verification, challenge claims, and direct corrections and releases. AI systems substantially assist with exploration, proofs, code, computation, checking, and writing. I don't claim to have independently written every proof or implementation.
-
-The wider ETI program studies how human–AI workflows preserve evidence and handle corrections. Comparative efficacy is still untested.
-
-I'm interested in AI evaluation and research-workflow roles. [Get in touch](mailto:zloevseth@gmail.com).
+The mathematical papers are public preprints with external specialist review pending in their recorded release state. Computational checks, prototypes, philosophical positions, and published disclosures retain their separate evidence limits. AI-assisted checks are internal checks; comparative efficacy of the broader research approach is unestablished.
